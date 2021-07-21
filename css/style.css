@@ -27,7 +27,7 @@ h1 {
   text-transform: uppercase;
   font-weight: bold;
   text-align: center;
-  color: #030609;
+  color: 12,90,121;
   margin-top: 0;
 }
 
@@ -78,9 +78,11 @@ img {
   float: right;
   margin-left: 20px;
   margin-bottom: 20px;
-  border: 1px solid #222222;
+  border: 2px solid #222222;
+  border-radius: 10px;
+  box-shadow: rgba(12,90,121,0.5);
   padding: 5px;
-  width: 400px;
+  width: 300px;
 }
 
 img[alt] {
